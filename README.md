@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GerardoAJF
 - 👀 I’m interested in Python 🐍
-- 🌱 I’m currently learning Data Science ⚙ and Python GUIs 🖌
 - 📫 You can contact me in <gerardo.jovelfranco@gmail.com> 
 
 <!---
