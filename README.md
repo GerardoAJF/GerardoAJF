@@ -15,7 +15,7 @@ In the quarantine due to Covid-19 🦠, I decided to learn programming for all t
 
 - Pet a duck 🦆
 - I don't have any public projects 📦, and I think it would be good to apply my knowledge in Python 🐍 packages
-- Buy light potion
+- Buy light potion ⚗️
 
 ## Contact Me:
 
