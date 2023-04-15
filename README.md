@@ -18,7 +18,7 @@ In the quarantine due to Covid-19 🦠, I decided to learn programming for all t
 
 ## Contact Me:
 
-📫 You can contact me in <gerardo.jovelfranco@gmail.com> 
+📫 You can contact me in <gerardoowo.jav@gmail.com> 
 
 <!---
 GerardoAJF/GerardoAJF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
