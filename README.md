@@ -13,7 +13,7 @@ In the quarantine due to Covid-19 🦠, I decided to learn programming for all t
 
 ## TODO:
 
-- I don't have any public projects 📦, and I think it would be good to apply my knowledge in Python 🐍 packages
+- ~~I don't have any public projects 📦, and I think it would be good to apply my knowledge in Python 🐍 packages~~
 - Finish PyContacts 🏁
 
 ## Contact Me:
