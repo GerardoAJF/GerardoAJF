@@ -35,7 +35,7 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -132,7 +132,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.99mb of code in 1562 edited files across 200 commits</small>
+                <small>estimation from 3.99mb of code in 1563 edited files across 201 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -155,6 +155,7 @@
                                 JavaScript
                             </div>
                             <small>
+                                <div>25.1k lines</div>
                                 <div>62.64%</div>
                             </small>
                         </div>
@@ -166,6 +167,7 @@
                                 CSS
                             </div>
                             <small>
+                                <div>3.96k lines</div>
                                 <div>5.23%</div>
                             </small>
                         </div>
@@ -177,6 +179,7 @@
                                 HTML
                             </div>
                             <small>
+                                <div>439 lines</div>
                                 <div>1.08%</div>
                             </small>
                         </div>
@@ -190,6 +193,7 @@
                                 Java
                             </div>
                             <small>
+                                <div>9.11k lines</div>
                                 <div>27.78%</div>
                             </small>
                         </div>
@@ -201,6 +205,7 @@
                                 Python
                             </div>
                             <small>
+                                <div>1.24k lines</div>
                                 <div>3.24%</div>
                             </small>
                         </div>
@@ -212,6 +217,7 @@
                                 Procfile
                             </div>
                             <small>
+                                <div>4 lines</div>
                                 <div>0.03%</div>
                             </small>
                         </div>
