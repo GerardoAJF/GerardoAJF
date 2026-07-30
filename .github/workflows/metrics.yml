@@ -11,6 +11,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
 
+          commits_authoring: GerardoAJF, Gerardoowo, 74077723+GerardoAJF@users.noreply.github.com
+
           repositories_affiliations: owner, collaborator
           
           plugin_languages: yes
