@@ -1,6 +1,8 @@
 # Hello =D :
 
 ## I'm Gerardo AJF:
+![Metrics](/github-metrics.svg)
+
 ### A hobbiest programer
 
 that:
