@@ -10,7 +10,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
-          repositories_limit: 50
+
           repositories_affiliations: owner, collaborator
           
           plugin_languages: yes
